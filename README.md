@@ -13,6 +13,20 @@
 - 根据月线风险开关、周线位置和日线确认给出网格执行提示
 - 支持导出和导入个人数据，便于定期备份
 
+## 界面预览
+
+以下截图已脱敏，仅用于展示界面和功能结构：
+
+![策略筛选器](docs/screenshots/01-strategy.png)
+
+![股息收入明细](docs/screenshots/02-income.png)
+
+![股票池与 BOLL 指标](docs/screenshots/03-stock-pool.png)
+
+![月度股息与批量录入](docs/screenshots/04-monthly-batch.png)
+
+![分红进度与即将到来的分红](docs/screenshots/05-dividend-progress.png)
+
 ## 隐私与数据
 
 个人持仓和交易记录不包含在本仓库中。网站按用户身份隔离投资数据；请勿把账号、交易记录或 API 密钥提交到 GitHub。股息、税费和行情结果仅供核对，最终以公司公告、中国结算及券商结算为准。
