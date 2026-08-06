@@ -61,4 +61,6 @@ Dividend Radar is an A-share dividend and portfolio tracker. It combines dividen
 
 MIT License. See [LICENSE](./LICENSE).
 
+版本记录见 [CHANGELOG.md](./CHANGELOG.md)。
+
 本项目灵感来源于@还是叫我吴富贵吧，把想法做成工具，发扬我为人人，人人为我的共享精神，感恩遇见！
